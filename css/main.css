@@ -1,6 +1,6 @@
 body {
 	
-	background-image:url('../img/bg.png');
+/*	background-image:url('../img/bg.png');*/
 }
 
 .profile-pic{
@@ -13,3 +13,14 @@ body {
 	text-align: center;
 }
 
+.more {
+	float:right;
+	margin-right: 20px;
+}
+.foundation-img {
+	width: 250px;
+	margin-bottom: 20px;
+}
+.foundation-column {
+	text-align: center;
+}
